@@ -3,7 +3,8 @@ This was my final project for the python course at [Codédex](https://www.codede
 
 # Cookbook App
 
-A simple cookbook application to display recipes, made in Python.
+A simple cookbook program made in python, that displays recipes.
+The list of recipes is very limited, and not at all serious.
 
 ## Installation and Usage
 
