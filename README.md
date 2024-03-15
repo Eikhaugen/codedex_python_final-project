@@ -12,7 +12,7 @@ To use this application, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone <git@github.com:Eikhaugen/codedex_python_final-project.git>
+    git clone git@github.com:Eikhaugen/codedex_python_final-project.git
     ```
 
 2. Navigate to the project directory:
