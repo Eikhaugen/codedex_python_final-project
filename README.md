@@ -1,5 +1,5 @@
 # codedex_python_final-project
-This was the final project for the python course at [Codédex](https://www.codedex.io/home)
+This was my final project for the python course at [Codédex](https://www.codedex.io/home)
 
 # Cookbook App
 
